@@ -19,12 +19,19 @@ I am looking for entry-level opportunities in Data Analytics, Data Analysis, Bus
 <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" /></a>
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" /></a>
 <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" /></a>
-<a href="https://www.tableau.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30" height="30" /></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30" height="30" /></a>
 
 Socials
 
-💼 LinkedIn: [https://www.linkedin.com/in/rohith-krishna-k/]
+### Socials
+
+<p align="left">
+  <a href="https://github.com/Sumishasunilt">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="25" height="25"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rohith-krishna-k/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25"/>
+  </a>
+</p>
 
 ⸻
 
