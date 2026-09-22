@@ -80,7 +80,7 @@ Key analysis includes:
 * Movies vs TV Shows by country
 * Interactive filters for Type, Genre, Country, Director, and Release Year
 
-🔗 View Project
+🔗 [View Project](https://github.com/rohithkrishna-k/Netflix-Content-Analysis-Tableau)
 
 ⸻
 
