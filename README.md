@@ -21,11 +21,8 @@ I am looking for entry-level opportunities in Data Analytics, Data Analysis, Bus
 <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30" /></a>
 
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" /></a>
-
 <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" /></a>
-
 <a href="https://www.tableau.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30" height="30" /></a>
-
 <a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30" height="30" /></a>
 
 Socials
